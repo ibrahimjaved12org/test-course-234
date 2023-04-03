@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: this is something in the descrip
-file: /media/courses/test-course2/image3.png
+file: /media/courses/179-test-course-234-summer-2023/image3.png
 file_type: image/png
 image_metadata:
   caption: ''
