@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: this is something in the descrip
 file: /media/courses/test-course2/image3.png
 file_type: image/png
 image_metadata:
